@@ -2,12 +2,12 @@
 
 ## The sorting algorithms in the series
 
-* [x] Quicksort
-* [x] Merge sort
 * [x] Bubble sort
 * [x] Insertion sort
 * [x] Selection sort
+* [x] Merge sort
 * [x] Shellsort
+* [x] Quicksort
 
 ## The big O notation
 
